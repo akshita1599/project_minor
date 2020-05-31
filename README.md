@@ -24,14 +24,14 @@ Objective of the proposed System
 6. Providing info to hire care takers, yoga instructors
 
 Software Requirements
-Operating System - Windows 7 or above
-IDE Used - eclipse neon or updated version
-Database - MySql Server
-Browser - Any web Browser
-Database Driver - MySql Connector
+1. Operating System - Windows 7 or above
+2. IDE Used - eclipse neon or updated version
+3. Database - MySql Server
+4. Browser - Any web Browser
+5. Database Driver - MySql Connector
 
 Hardware Requirements
-Processor - Core2Duo or any AMD equivalent processor
-RAM - 2GB or above
-Hard Disk - 10GB or above
-VRAM - Integrated GPU
+1. Processor - Core2Duo or any AMD equivalent processor
+2. RAM - 2GB or above
+3. Hard Disk - 10GB or above
+4. VRAM - Integrated GPU
